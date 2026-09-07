@@ -1,0 +1,7 @@
+# scraper.py uses only the Python standard library.
+# ics_generator.py needs the IANA time-zone database for Asia/Jerusalem.
+# On Linux (GitHub Actions) the OS usually provides it; tzdata guarantees it.
+tzdata>=2024.1
+
+# Optional: only used by tests/validation, not by the build itself.
+# icalendar>=5.0

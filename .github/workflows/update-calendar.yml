@@ -1,0 +1,55 @@
+name: Update Ligat ha'Al calendar
+
+on:
+  schedule:
+    # Every hour at :17 (UTC). GitHub often delays scheduled runs a few
+    # minutes under load - that is fine for an hourly calendar feed.
+    - cron: "17 * * * *"
+  workflow_dispatch: {}          # lets you run it by hand from the Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - "scraper.py"
+      - "ics_generator.py"
+      - ".github/workflows/update-calendar.yml"
+
+# Needed so the job can commit the refreshed docs/league.ics back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape fixtures from football.org.il
+        run: python scraper.py --season "2026/27" --out data/games.json
+
+      - name: Generate league.ics
+        run: python ics_generator.py --in data/games.json --out docs/league.ics
+
+      - name: Commit & push if the calendar changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/league.ics
+          if git diff --cached --quiet; then
+            echo "No fixture changes - nothing to commit."
+          else
+            git commit -m "chore: refresh league.ics ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

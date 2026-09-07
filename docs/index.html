@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>יומן ליגת העל 2026/27</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 16px/1.6 system-ui, "Segoe UI", Arial, sans-serif; margin: 0;
+         background: #0b1220; color: #e7ecf3; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 40px 20px 64px; }
+  h1 { font-size: 1.6rem; margin: 0 0 .2em; }
+  .sub { color: #9fb0c3; margin-bottom: 2rem; }
+  .card { background: #131c2e; border: 1px solid #26344c; border-radius: 14px;
+          padding: 20px 22px; margin: 18px 0; }
+  code, .url { direction: ltr; unicode-bidi: bidi-override; font-family: ui-monospace,
+          "SF Mono", Menlo, Consolas, monospace; font-size: .92rem; word-break: break-all; }
+  .url { display: block; background: #0b1220; border: 1px solid #26344c;
+         border-radius: 8px; padding: 12px 14px; margin: 10px 0; }
+  button { font: inherit; cursor: pointer; background: #3b82f6; color: #fff;
+           border: 0; border-radius: 8px; padding: 9px 16px; }
+  ol { padding-inline-start: 1.3em; }
+  a { color: #7db2ff; }
+  .muted { color: #9fb0c3; font-size: .9rem; }
+</style>
+<div class="wrap">
+  <h1>⚽ יומן משחקי ליגת העל (WINNER) — עונת 2026/27</h1>
+  <p class="sub">מתעדכן אוטומטית כל שעה מהאתר הרשמי של ההתאחדות לכדורגל בישראל.</p>
+
+  <div class="card">
+    <strong>כתובת ההרשמה ליומן (ICS):</strong>
+    <span class="url" id="ics">https://yiznagar.github.io/ligat-haal-calendar/league.ics</span>
+    <button onclick="navigator.clipboard.writeText(document.getElementById('ics').textContent)">
+      העתק כתובת
+    </button>
+    <button onclick="location.href='webcal://yiznagar.github.io/ligat-haal-calendar/league.ics'">
+      פתח בלוח שנה
+    </button>
+  </div>
+
+  <div class="card">
+    <strong>Outlook (דפדפן): Subscribe from web</strong>
+    <ol>
+      <li>היכנס ל־<a href="https://outlook.office.com/calendar/" target="_blank" rel="noopener">outlook.office.com/calendar</a>
+          (או outlook.live.com).</li>
+      <li>בסרגל הצד: <em>Add calendar → Subscribe from web</em>.</li>
+      <li>הדבק את הכתובת שלמעלה, תן שם ליומן (למשל “ליגת העל”), ואשר.</li>
+      <li>Outlook ירענן את היומן מעצמו כל כמה שעות.</li>
+    </ol>
+    <p class="muted">Google Calendar: “יומנים אחרים” → “מכתובת URL” → הדבק את אותה כתובת.<br>
+       Apple Calendar: File → New Calendar Subscription → הדבק את הכתובת.</p>
+  </div>
+
+  <p class="muted">
+    כל משחק מקבל מזהה קבוע (UID) לפי מספר המשחק באתר ההתאחדות, כך ששינוי תאריך,
+    שעה או אצטדיון מעדכן את האירוע הקיים ולא יוצר כפילות.
+    &nbsp;•&nbsp; <a href="league.ics">הורדת league.ics</a>
+  </p>
+</div>
+</html>

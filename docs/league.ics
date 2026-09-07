@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yiznagar//Ligat haAl calendar//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ליגת העל בכדורגל 2026/27
+X-WR-TIMEZONE:Asia/Jerusalem
+X-WR-CALDESC:יומן משחקי ליגת העל - מתעדכן אוטומ
+ טית מאתר ההתאחדות לכדורגל
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120561@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי פ"ת - הפועל ק"ש (מחזור 1)
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+LOCATION:פתח תקוה אצטדיון שלמה ביטוח
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120561
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120561
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:e6d26462b66d375dca205a19c6bd94f71913819f
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120562@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:עירוני דורות טבריה - הפועל פ"ת (מחזור 1
+ )
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+LOCATION:נוף הגליל אצטדיון בראל
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120562
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120562
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:e2891535a79c7d9aed42a6cac6187559a8876e3a
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120563@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל י-ם - מכבי ת"א (מחזור 1)
+DTSTART:20260823T171600Z
+DTEND:20260823T191600Z
+LOCATION:רחובות אצטדיון עירוני
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120563
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120563
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:64982ee36b903c2cbe84926c4599efaa9c3ffa18
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120564@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי חיפה - הפועל ר"ג (מחזור 1)
+DTSTART:20260822T173000Z
+DTEND:20260822T193000Z
+LOCATION:חיפה אצטדיון סמי עופר
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120564
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120564
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:683c7765fad5859b77461950fa9fee2079f62895
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120565@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל ב"ש - הפועל חיפה (מחזור 1)
+DTSTART:20260902T170100Z
+DTEND:20260902T190100Z
+LOCATION:באר שבע אצטדיון טוטו ע"ש טרנר
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120565
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120565
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:9fcccbf6f39d70fa0317f6e8743254ed823923cb
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120566@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל ת"א - בית"ר י-ם (מחזור 1)
+DTSTART:20260903T173600Z
+DTEND:20260903T193600Z
+LOCATION:בלומפילד
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120566
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120566
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:fb6e9eadb7955a7f5a4bf2bed28417c62571e127
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120567@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי נתניה - בני סכנין (מחזור 1)
+DTSTART:20260824T170000Z
+DTEND:20260824T190000Z
+LOCATION:נתניה אצטדיון מרים
+DESCRIPTION:ליגת העל 2026/27\nמחזור 1\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120567
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120567
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:b054cd2ce2aafa55584e247789388ff58b903b5f
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120568@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:בני סכנין - מכבי פ"ת (מחזור 2)
+DTSTART:20260829T170000Z
+DTEND:20260829T190000Z
+LOCATION:סכנין אצטדיון דוחא
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120568
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120568
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:dc4020e27d210717d9907e2ec2e4c4f82eae5050
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120569@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:בית"ר י-ם - מכבי נתניה (מחזור 2)
+DTSTART:20260829T173000Z
+DTEND:20260829T193000Z
+LOCATION:בלומפילד
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120569
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120569
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:37759cdc2c26b03f8b4f7b40b3dcbca62edba7d0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120570@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל חיפה - הפועל ת"א (מחזור 2)
+DTSTART:20260830T171700Z
+DTEND:20260830T191700Z
+LOCATION:חיפה אצטדיון סמי עופר
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120570
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120570
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:61261c080cfc4cc42d8a7b6eb9f8007f7136b11b
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120571@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל ר"ג - הפועל ב"ש (מחזור 2)
+DTSTART:20260829T170400Z
+DTEND:20260829T190400Z
+LOCATION:רחובות אצטדיון עירוני
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120571
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120571
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:1da0e0931eb12a192a5687bb32439250961379a7
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120572@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי ת"א - מכבי חיפה (מחזור 2)
+DTSTART:20260831T173000Z
+DTEND:20260831T193000Z
+LOCATION:בלומפילד
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120572
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120572
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:9109596f6b5f494372144e20d5b79645fea0486b
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120573@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל פ"ת - הפועל י-ם (מחזור 2)
+DTSTART:20260829T170000Z
+DTEND:20260829T190000Z
+LOCATION:פתח תקוה אצטדיון שלמה ביטוח
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120573
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120573
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:78266165cafbd6ca019b4cb240696f127db85061
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120574@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל ק"ש - עירוני דורות טבריה (מחזור 2
+ )
+DTSTART:20260829T170000Z
+DTEND:20260829T190000Z
+LOCATION:נתניה אצטדיון מרים
+DESCRIPTION:ליגת העל 2026/27\nמחזור 2\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120574
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120574
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:43a442a4c2fb62db17eeaf62ecaf9b8a579741f5
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120575@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי פ"ת - עירוני דורות טבריה (מחזור 3)
+DTSTART:20260905T164500Z
+DTEND:20260905T184500Z
+LOCATION:פתח תקוה אצטדיון שלמה ביטוח
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120575
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120575
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:b4d531f784d06f66443ba69cc2607859b2169469
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120576@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל י-ם - הפועל ק"ש (מחזור 3)
+DTSTART:20260905T164500Z
+DTEND:20260905T184500Z
+LOCATION:רחובות אצטדיון עירוני
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120576
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120576
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:57830552fa25445cfa859c91ffbc3da8f5ab3b14
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120577@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי חיפה - הפועל פ"ת (מחזור 3)
+DTSTART:20260905T173300Z
+DTEND:20260905T193300Z
+LOCATION:חיפה אצטדיון סמי עופר
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120577
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120577
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:69f5702ff2d04ec990e548b8d1076b7f60521314
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120578@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל ב"ש - מכבי ת"א (מחזור 3)
+DTSTART:20260907T173000Z
+DTEND:20260907T193000Z
+LOCATION:באר שבע אצטדיון טוטו ע"ש טרנר
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120578
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120578
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:6bfa9fa5f5a86c14b966d241a66c19df73ce71e7
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120579@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:הפועל ת"א - הפועל ר"ג (מחזור 3)
+DTSTART:20260907T170100Z
+DTEND:20260907T190100Z
+LOCATION:בלומפילד
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120579
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120579
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:5633b3c7169d7bd8c995ddf6ad3ef4c1516d4db6
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120580@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:מכבי נתניה - הפועל חיפה (מחזור 3)
+DTSTART:20260907T164500Z
+DTEND:20260907T184500Z
+LOCATION:נתניה אצטדיון מרים
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120580
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120580
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:218b69ef23fdda94a1d6789e6e0a9380247a2c5f
+END:VEVENT
+BEGIN:VEVENT
+UID:ligat-haal-28-game-1120581@yiznagar.github.io
+DTSTAMP:20260907T211716Z
+SEQUENCE:0
+SUMMARY:בני סכנין - בית"ר י-ם (מחזור 3)
+DTSTART:20260907T171500Z
+DTEND:20260907T191500Z
+LOCATION:סכנין אצטדיון דוחא
+DESCRIPTION:ליגת העל 2026/27\nמחזור 3\nעמוד המשחק: htt
+ ps://www.football.org.il/leagues/games/game/?game_id=1120581
+URL:https://www.football.org.il/leagues/games/game/?game_id=1120581
+LAST-MODIFIED:20260907T211716Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SIG:3b097c5a217fccf2f95004738220fe8355cef142
+END:VEVENT
+END:VCALENDAR

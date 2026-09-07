@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Build artifact from scraper.py; the published product is docs/league.ics
+data/games.json
